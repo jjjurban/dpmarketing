@@ -1,0 +1,8 @@
+facebook-scraper
+pandas
+requests
+gspread
+oauth2client
+openai
+pyinstaller
+tk
